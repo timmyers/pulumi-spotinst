@@ -1,3 +1,5 @@
+**Deprecated**: Please use the official provider at https://github.com/pulumi/pulumi-spotinst.
+
 [![Build Status](https://travis-ci.com/timmyers/pulumi-spotinst.svg?branch=master)](https://travis-ci.com/timmyers/pulumi-spotinst)
 
 # Spotinst Resource Provider
